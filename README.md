@@ -7,4 +7,5 @@ Football pass networks, or pass maps are a visual representation of passing inte
 ## Tutorial video by Me:
 
 https://www.youtube.com/watch?v=pW7rltisoqo 
+
 ![Video Thumbnail](/images/thumbnail.jpg)
